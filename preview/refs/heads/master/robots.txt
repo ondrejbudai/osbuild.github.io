@@ -1,0 +1,1 @@
+Sitemap: https://www.osbuild.org/osbuild.github.io/preview/refs/heads/master/sitemap.xml
